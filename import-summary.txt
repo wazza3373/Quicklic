@@ -1,0 +1,164 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\workspace.xml
+* Quicklic.iml
+* README.md
+* app\
+* app\build.gradle
+* app\src\
+* app\src\main\
+* app\src\main\AndroidManifest.xml
+* app\src\main\aidl\
+* app\src\main\aidl\quicklic\
+* app\src\main\aidl\quicklic\floating\
+* app\src\main\aidl\quicklic\floating\api\
+* app\src\main\aidl\quicklic\floating\api\FloatingInterfaceAIDL.aidl
+* app\src\main\java\
+* app\src\main\java\quicklic\
+* app\src\main\java\quicklic\floating\
+* app\src\main\java\quicklic\floating\api\
+* app\src\main\java\quicklic\floating\api\FloatingService.java
+* app\src\main\java\quicklic\quicklic\
+* app\src\main\java\quicklic\quicklic\datastructure\
+* app\src\main\java\quicklic\quicklic\datastructure\Axis.java
+* app\src\main\java\quicklic\quicklic\datastructure\Item.java
+* app\src\main\java\quicklic\quicklic\favorite\
+* app\src\main\java\quicklic\quicklic\favorite\ApkAdapter.java
+* app\src\main\java\quicklic\quicklic\favorite\ApkListActivity.java
+* app\src\main\java\quicklic\quicklic\favorite\PreferencesManager.java
+* app\src\main\java\quicklic\quicklic\favorite\QuicklicFavoriteService.java
+* app\src\main\java\quicklic\quicklic\hardware\
+* app\src\main\java\quicklic\quicklic\hardware\ComponentAirPlane.java
+* app\src\main\java\quicklic\quicklic\hardware\ComponentBluetooth.java
+* app\src\main\java\quicklic\quicklic\hardware\ComponentGPS.java
+* app\src\main\java\quicklic\quicklic\hardware\ComponentRotate.java
+* app\src\main\java\quicklic\quicklic\hardware\ComponentVolume.java
+* app\src\main\java\quicklic\quicklic\hardware\ComponentWifi.java
+* app\src\main\java\quicklic\quicklic\hardware\QuicklicHardwareService.java
+* app\src\main\java\quicklic\quicklic\keyboard\
+* app\src\main\java\quicklic\quicklic\keyboard\QuicklicKeyBoardService.java
+* app\src\main\java\quicklic\quicklic\main\
+* app\src\main\java\quicklic\quicklic\main\QuicklicMainService.java
+* app\src\main\java\quicklic\quicklic\servicecontrol\
+* app\src\main\java\quicklic\quicklic\servicecontrol\FinishService.java
+* app\src\main\java\quicklic\quicklic\servicecontrol\StartService.java
+* app\src\main\java\quicklic\quicklic\util\
+* app\src\main\java\quicklic\quicklic\util\BaseQuicklic.java
+* app\src\main\java\quicklic\quicklic\util\DeviceAdmin.java
+* app\src\main\java\quicklic\quicklic\util\DeviceAdminActivity.java
+* app\src\main\java\quicklic\quicklic\util\DeviceMetricQuicklic.java
+* app\src\main\java\quicklic\quicklic\util\ItemPagerAdapter.java
+* app\src\main\java\quicklic\quicklic\util\ViewHolder.java
+* app\src\main\res\
+* app\src\main\res\drawable-hdpi\
+* app\src\main\res\drawable-hdpi\ic_launcher.png
+* app\src\main\res\drawable-ldpi\
+* app\src\main\res\drawable-ldpi\ic_launcher.png
+* app\src\main\res\drawable-mdpi\
+* app\src\main\res\drawable-mdpi\ic_launcher.png
+* app\src\main\res\drawable-xhdpi\
+* app\src\main\res\drawable-xhdpi\floating.png
+* app\src\main\res\drawable-xhdpi\ic_launcher.png
+* app\src\main\res\drawable-xxhdpi\
+* app\src\main\res\drawable-xxhdpi\ic_launcher.png
+* app\src\main\res\drawable\
+* app\src\main\res\drawable\airplane_off.png
+* app\src\main\res\drawable\airplane_on.png
+* app\src\main\res\drawable\bluetooth_off.png
+* app\src\main\res\drawable\bluetooth_on.png
+* app\src\main\res\drawable\favorite.png
+* app\src\main\res\drawable\favorite_add.png
+* app\src\main\res\drawable\favorite_delete.png
+* app\src\main\res\drawable\gps_off.png
+* app\src\main\res\drawable\gps_on.png
+* app\src\main\res\drawable\hardware.png
+* app\src\main\res\drawable\home.png
+* app\src\main\res\drawable\key_exit.png
+* app\src\main\res\drawable\key_left.png
+* app\src\main\res\drawable\key_move.png
+* app\src\main\res\drawable\key_right.png
+* app\src\main\res\drawable\keyboard.png
+* app\src\main\res\drawable\power.png
+* app\src\main\res\drawable\rendering_circle.xml
+* app\src\main\res\drawable\rendering_item.xml
+* app\src\main\res\drawable\rotate_off.png
+* app\src\main\res\drawable\rotate_on.png
+* app\src\main\res\drawable\sound_decrease.png
+* app\src\main\res\drawable\sound_increase.png
+* app\src\main\res\drawable\sound_mute.png
+* app\src\main\res\drawable\sound_on.png
+* app\src\main\res\drawable\sound_vibrate.png
+* app\src\main\res\drawable\wifi_off.png
+* app\src\main\res\drawable\wifi_on.png
+* app\src\main\res\layout\
+* app\src\main\res\layout\activity_apklist_favorite.xml
+* app\src\main\res\layout\apklist_item.xml
+* app\src\main\res\values-v11\
+* app\src\main\res\values-v11\styles.xml
+* app\src\main\res\values-v14\
+* app\src\main\res\values-v14\styles.xml
+* app\src\main\res\values\
+* app\src\main\res\values\strings.xml
+* app\src\main\res\values\styles.xml
+* app\src\main\res\xml\
+* app\src\main\res\xml\device_admin.xml
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* proguard-project.txt
+* settings.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\quicklic\floating\api\FloatingInterfaceAIDL.aidl => app\src\main\aidl\quicklic\floating\api\FloatingInterfaceAIDL.aidl
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

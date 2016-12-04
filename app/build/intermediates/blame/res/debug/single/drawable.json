@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sound_on.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\sound_on.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rotate_off.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\rotate_off.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifi_off.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\wifi_off.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bluetooth_off.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\bluetooth_off.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifi_on.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\wifi_on.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\keyboard.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gps_on.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\gps_on.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hardware.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\hardware.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorite_delete.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\favorite_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sound_mute.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\sound_mute.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rendering_circle.xml",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\rendering_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bluetooth_on.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\bluetooth_on.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sound_vibrate.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\sound_vibrate.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\power.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\power.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sound_decrease.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\sound_decrease.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\airplane_on.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\airplane_on.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\airplane_off.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\airplane_off.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\key_right.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\key_right.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sound_increase.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\sound_increase.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorite.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\key_left.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\key_left.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rendering_item.xml",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\rendering_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rotate_on.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\rotate_on.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorite_add.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\favorite_add.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\key_exit.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\key_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\key_move.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\key_move.png"
+    },
+    {
+        "merged": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gps_off.png",
+        "source": "C:\\Users\\seongbo\\Documents\\Quicklic\\app\\src\\main\\res\\drawable\\gps_off.png"
+    }
+]
